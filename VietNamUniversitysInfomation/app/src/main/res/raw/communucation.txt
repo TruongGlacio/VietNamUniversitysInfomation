@@ -1,0 +1,27 @@
+[
+{
+"vietnam":"Xin Chào",
+"english":"Hello",
+"filename":"buiphan"
+},
+{
+"vietnam":"Cảm ơn",
+"english":"Thank you",
+"filename":"buiphan"
+},
+{
+"vietnam":"Xin lỗi",
+"english":"Sorry",
+"filename":"buiphan"
+},
+{
+"vietnam":"Bạn có khỏe không?",
+"english":"How are you?",
+"filename":"buiphan"
+},
+{
+"vietnam":"Tôi khỏe. Cảm ơn bạn.",
+"english":"I'm fine, thank you",
+"filename":"buiphan"
+}
+]

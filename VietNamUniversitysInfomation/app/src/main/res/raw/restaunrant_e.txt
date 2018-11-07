@@ -1,0 +1,46 @@
+{
+"Categories":
+    {
+    "Dacsanohanoi":
+    [
+    {
+"name":"Xoi Xeo",
+"address":"Xoi Yen - 35B Nguyen Huu Huan, Hanoi",
+"info":"Xoi xeo is sticky rice topped with ground de-hulled mung bean and fried onion. Sometimes it can be served with eggs or steamed chicken breast on request.",
+"longitude":105.854392,
+"latitude":21.034619,
+"nameicon"="xoixeo"
+},
+{
+"name":"Banh Cuon",
+"address":"11-Tong Duy Tan, Cua Nam, Hoan Kiem, Hanoi",
+"info":"If the French has this famous delicious crepe made of wheat, egg and dairy products; Vietnamese and particularly Hanoian is proud of their steamed crepe from rice flour and water. A savoury meal, the inside stuffing contains ground pork, wood-ear and seasoning. Most street chefs make the dish right at door so look for a place that steams are coming up high. Banh cuon is served with nuoc mam, a mixture of fish sauce, sugar and lime",
+"longitude":105.843809,
+"latitude":21.029527,
+"nameicon"="banhcuon"
+},
+{
+"name":"Noodle soup",
+"address":"49-Bat Dan, Cua Dong, Hoan kiem, Ha Noi",
+"info":"This universally famous food is best enjoyed in Hanoi, where it was �invented� in the early 20th century. Pho- or rice noodle soup- is omnipresent in Hanoi, appearing anywhere from street vendors to high end restaurant chain Pho 24. Some is served with chicken and some with beef. Each type of meat entails a variety of sub-dish, using from beef tenderloin to beef brisket, chicken wing to chicken thigh. The tip is, look for the place where locals gather the most and you know where you should order and sit down.",
+"longitude":105.846206,
+"latitude":21.034088,
+"nameicon"="pho"
+},
+{
+"name":"Bun thang",
+"address":"48 Cua Go, Hang Bac, Hoan Kiem, Ha Noi",
+"info":"If Pho is compatible to linguine in shape, Bun is more like spaghetti. Bun thang is one of the most popular yet hidden fares in Hanoi and one can hardly find it outside of the Old quarters or a few special restaurants scattering across the city. The chicken broth is artistically done and the dish is beautifully served. Bun thang is a harmonious blend of color- the yellow of sliced egg; the white of bun; the off-white of chicken and the green of onions and herbs.",
+"longitude":105.852751,
+"latitude":21.032456,
+"nameicon"="bunthang"
+},
+{
+"name":"Cha ca La Vong",
+"address":"14 Cha ca, Hang Dao, Hoan Kiem, Ha Noi",
+"info":"You think you have read about this name somewhere and yes, you are right. Cha ca La Vong is listed as one of the top 100 things you gotta try before you die by many cuisine experts. It is exquisitely grilled fish served with b�n, peanut, green onions, dills and shrimp paste. The fish is carefully chosen so that there are not too many bones and fishy smells. A glass of bia hoi or tra da will definitely give your meal more flavour",
+"longitude":105.849130,
+"latitude":21.036181,
+"nameicon"="chaca"
+}
+]}}

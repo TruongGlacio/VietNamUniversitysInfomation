@@ -1,0 +1,52 @@
+[
+{"name":"Chùa một cột",
+"address":"Đội Cấn, Ba Đình, Hà Nội, Việt Nam",
+"info":"Chùa một cột được xây dựng vào năm 1049 dưới thới vua Lý Thái Tông. Ngôi chùa này nằm giữa lòng thủ đô. Nó có kiến trúc vô cùng độc đáo và là một trong những biểu tượng của Hà Nội ",
+"longitude":105.833613,
+"latitude":21.028452,
+"nameicon"="chuamotcot"
+},
+{"name":"Văn Miếu",
+"address":"Văn Miếu, Đống Đa, Hà Nội, Việt Nam",
+"info":"Văn Miếu Quốc Tử Giám là quần thể di tích đa dạng và phong phú hàng đầu của thành phố Hà Nội, nằm ở phía Nam kinh thành Thăng Long. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt. Wikipedia",
+"longitude":105.835843,
+"latitude":21.028772,
+"nameicon"="vanmieu"
+},
+{"name":"Hồ Hoàn Kiếm",
+"address":"Hoàn Kiếm, Hà Nội, Việt Nam",
+"info":"Hồ Hoàn Kiếm còn được gọi là Hồ Gươm, là một hồ nước ngọt tự nhiên của thành phố Hà Nội. Hồ có diện tích khoảng 12 ha. Trước kia, hồ còn có các tên gọi là hồ Lục Thủy, hồ Thủy Quân, hồ Tả Vọng và Hữu Vọng. Độ sâu trung bình:1,20 m",
+"longitude":105.835843,
+"latitude":21.028772,
+"nameicon"="hohoankiem"
+},
+{"name":"Đền Ngọc Sơn",
+"address":"Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội, Việt Nam",
+"info":"Đền Ngọc Sơn là một ngôi đền thờ nằm trên đảo Ngọc của hồ Hoàn Kiếm ở Hà Nội, Việt Nam. Đây cũng là một di tích quốc gia đặc biệt của Việt Nam được xếp hạng đợt 4. Wikipedia",
+"longitude":105.852382,
+"latitude":21.030971,
+"nameicon"="denngocson"
+},
+{"name":"Nhà hát lớn Hà Nội",
+"address":"Số 1, phố Tràng Tiền, quận Hoàn Kiếm, Hà Nội, Việt Nam",
+"info":"Nhà hát Lớn Hà Nội là một công trình kiến trúc phục vụ biểu diễn nghệ thuật tọa lạc trên quảng trường Cách mạng tháng Tám, vị trí đầu phố Tràng Tiền, không xa hồ Hoàn Kiếm và Bảo tàng Lịch sử Việt Nam. Chức năng:Nhà hát opera, Chiều cao:34 m, Mở cửa:09 tháng 12, 1911",
+"longitude":105.857794,
+"latitude":21.024266,
+"nameicon"="nhahatlon"
+},
+{"name":"Hồ Tây",
+"address":"Tây Hồ, Hà Nội, Việt Nam",
+"info":"Hồ Tây trước đây còn có các tên gọi khác như Đầm Xác Cáo, Hồ Kim Ngưu, Lãng Bạc, Dâm Đàm, Đoài Hồ, là một hồ nước tự nhiên lớn nhất ở nội thành Hà Nội. Hồ có diện tích hơn 500 ha với chu vi là 18 km. Hồ nằm ở vị trí phía tây bắc trung tâm Hà Nội. Chiều dài bờ hồ:17 km",
+"longitude":105.826054,
+"latitude":21.055814,
+"nameicon"="hotay"
+},
+{"name":"Chùa Trấn Quốc",
+"address":"Thanh Niên, Trúc Bạch, Ba Đình, Hà Nội, Việt Nam",
+"info":"Chùa Trấn Quốc nằm trên một hòn đảo phía Đông Hồ Tây, chùa có lịch sử 1500 năm, được coi là lâu đời nhất ở Thăng Long - Hà Nội",
+"longitude":105.836804,
+"latitude":21.047923,
+"nameicon"="chuatranquoc"
+}
+
+]

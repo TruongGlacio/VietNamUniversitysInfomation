@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ThongtintruongdaihoctaiVietNam</string>
+    <string name="location">Map</string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Restaurant</item>
+        <item>Travel</item>
+        <item>Communution</item>
+        <item>Feedback</item>
+    </string-array>
+    <string-array name="spinner">
+        <item>Viet Nam</item>
+        <item>English</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/feedback</item>
+
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

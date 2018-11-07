@@ -1,0 +1,46 @@
+﻿{
+"Categories":
+    {
+    "Dacsanohanoi":
+    [
+    {
+"name":"Xôi xéo",
+"address":"35B-Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+"info":" a",
+"longitude":105.854392,
+"latitude":21.034619,
+"nameicon"="xoixeo"
+},
+{
+"name":"Bánh cuốn",
+"address":"11-Tống Duy Tân, Cửa Nam, Hoàn Kiếm, Hà Nội",
+"info":" b",
+"longitude":105.843809,
+"latitude":21.029527,
+"nameicon"="banhcuon"
+},
+{
+"name":"Phở",
+"address":"49-Bát Đàn, Cửa Đong, Hoàn Kiếm, Hà Nội",
+"info":" c",
+"longitude":105.846206,
+"latitude":21.034088,
+"nameicon"="pho"
+},
+{
+"name":"Bún thang",
+"address":"48 Cầu Gỗ, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+"info":" Bún thang là một đặc sản ẩm thực của người Hà Nội",
+"longitude":105.852751,
+"latitude":21.032456,
+"nameicon"="bunthang"
+},
+{
+"name":"Chả cá Lã Vọng",
+"address":"14 Chả Cá, Hàng Đào, Hoàn Kiếm, Hà Nội",
+"info":"Chả cá Lã Vọng là tên của một đặc sản Hà Nội. Đây là món cá tẩm ướp, nướng trên than rồi rán lại trong chảo mỡ, do gia đình họ Đoàn tại số nhà 14 phố Chả Cá (trước đây là phố Hàng Sơn) trong khu phố cổ giữ bí quyết kinh doanh và đặt tên cho nó như trên.",
+"longitude":105.849130,
+"latitude":21.036181,
+"nameicon"="chaca"
+}
+]}}

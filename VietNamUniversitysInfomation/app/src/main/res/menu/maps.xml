@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.demomaps.MainActivity" >
+
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/icon_maps"
+        android:showAsAction="ifRoom"
+        android:title="@string/location"/>
+
+</menu>

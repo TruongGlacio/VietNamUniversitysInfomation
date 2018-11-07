@@ -1,0 +1,64 @@
+﻿[
+{"name":"The One-pillar pagodo",
+"address":"Doi Can St, Ba Dinh Dist, Hanoi, Vietnam",
+"info":"The Buddhist One Pillar Pagoda is almost peerless in Vietnam, with a history that dates back a full millenium. The iconic landmark was badly defaced by French troops in 1954 but was rebuilt decades later. ",
+"longitude":105.833613,
+"latitude":21.028452,
+"nameicon"="chuamotcot"
+},
+{"name":"Temple of Literature",
+"address":"Quoc Tu Giam St, Dong Da Dist, Hanoi, Vietnam",
+"info":"Temple of Literature is located on Van Mieu Street, 2km west of Hoan Kiem Lake. Van Mieu  Quoc Tu Giam is a famous historical and cultural relic consisting of the Temple of Literature and Vietnam is first university. The temple was built in 1070 in honor of Confucius, his followers and Chu Van An, a moral figure in Vietnamese education.",
+"longitude":105.835843,
+"latitude":21.028772,
+"nameicon"="vanmieu"
+},
+{"name":"Hoan Kiem Lake",
+"address":"Hoan Kiem Dist, Hanoi",
+"info":"Hoan Kiem Lake (Vietnamese: Hồ Hoàn Kiếm, meaning 'Lake of the Returned Sword' or 'Lake of the Restored Sword', also known as Hồ Gươm - Sword Lake) is a lake in the historical center of Hanoi, the capital city of Vietnam. The lake is one of the major scenic spots in the city and serves as a focal point for its public life.",
+"longitude":105.835843,
+"latitude":21.028772,
+"nameicon"="hohoankiem"
+},
+{"name":"Ngoc Son Temple",
+"address":"Đinh Tien Hoang, Hang Trong St, Hoan Kiem Dist, Hanoi",
+"info":"Being built on the Jade Islet and dedicated to Confucian and Taoist philosophers and the national hero, Trần Hưng Đạo, the small temple was expanded in 1865.
+
+From the shore, the Welcoming Morning Sunlight Bridge (Cầu Thê Húc) leads to the island. Buildings of the temple include the Pen Tower (Thap But), the ink-slab (Dai Nghien), the Moon Contemplation Pavilion (Dac Nguyet) and the Pavilion against Waves (Đình Trấn Ba), all of which have symbolic meaning.
+
+The temple is a popular spot for visitors to Hoan Kiem Lake.",
+"longitude":105.852382,
+"latitude":21.030971,
+"nameicon"="denngocson"
+},
+{"name":"Hanoi Opera House",
+"address":"1 Trang Tien St, Hoan Kiem Dist, Hanoi, Vietnam",
+"info":"The Hanoi Opera House (Vietnamese: Nhà hát lớn Hà Nội, French: Opéra de Hanoï) is an opera house in central Hanoi, Vietnam. It was erected by the French colonial administration between 1901 and 1911",
+"longitude":105.857794,
+"latitude":21.024266,
+"nameicon"="nhahatlon"
+},
+{"name":"West Lake",
+"address":"Tay Ho Dist, Hanoi, Vietnam",
+"info":"West Lake (Vietnamese: Hồ Tây) is a freshwater lake in the center of Hanoi, Vietnam. With a shore length of 17 km (about 10.6 miles), this is the largest lake of the capital and a popular place for recreation with many surrounding gardens, hotels and villas. A small part of West Lake is divided by Thanh Nien road to form Trúc Bạch Lake. One district of Hanoi is named after the lake, Tây Hồ District.",
+"longitude":105.826054,
+"latitude":21.055814,
+"nameicon"="hotay"
+},
+{"name":"Tran Quoc pagodo",
+"address":"Thanh Nien road, Truc Bach st, Ba Dinh Dist, Hanoi, Vietnam",
+"info":"The Trấn Quốc Pagoda in Hanoi is the oldest pagoda in the city, originally constructed in the sixth century during the reign of Emperor Ly Nam De, thus giving it an age of 1,400 years. When founded the temple was named Khai Quoc (National Founding) and was sited on the shores of the Red River, outside of the Yen Phu Dyke. When confronted with the river's encroachment, the temple was relocated in 1615 to Kim Ngu (Golden Fish) islet of Ho Tay (West Lake) where it is now situated. A small causeway links it to the mainland. The last major repair to the temple was undertaken in 1815 when the main sanctuary, reception hall and posterior hall of the dead were renovated.
+
+Over the years, the temple was variously named An Quoc (Pacification of the Realm) and Tran Bac (Guardian of the North) as well.
+
+With its harmonious architecture taking advantage of the watery landscape, the pagoda is a picturesque attraction. The sunset views from the temple grounds are renowned.
+
+Among the historic relics are statuary pieces dating to 1639.
+
+On the grounds of Tran Quoc is a bodhi tree taken as cutting of the original tree in Bodh Gaya, India under which the Buddha sat and achieved enlightenment. The gift was made in 1959, marking the visit of the Indian president Rajendra Prasad",
+"longitude":105.836804,
+"latitude":21.047923,
+"nameicon"="chuatranquoc"
+}
+
+]
